@@ -1,0 +1,1 @@
+json_decode($a, TRUE) 函数第二个参数为TRUE时，将 $a 解码为 数组
