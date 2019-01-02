@@ -1,1 +1,3 @@
 json_decode($a, TRUE) 函数第二个参数为TRUE时，将 $a 解码为 数组
+
+get_defined_vars() debug可以获取当前有效的所有变量
