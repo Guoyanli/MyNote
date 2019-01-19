@@ -1,0 +1,2 @@
+mac上去除Chrome的安全机制
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --ignore-certificate-errors
