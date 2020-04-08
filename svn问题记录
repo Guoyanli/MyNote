@@ -1,0 +1,6 @@
+svn: E200009: Could not add all targets because some targets are already versioned
+svn: E200009: Illegal target for the requested operation
+
+使用
+svn add * --force 
+可解决
